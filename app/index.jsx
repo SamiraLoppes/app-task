@@ -12,7 +12,7 @@ export default function LoginPage() {
     const [senha, setSenha] = useState("")
 
     function entrar() {
-        console.log("Entrou")
+        console.log("Entru")
         console.log(email, senha)
     }
 
